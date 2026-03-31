@@ -1,0 +1,6 @@
+{
+  "version": "0.7.0",
+  "url_exe": "https://github.com/TU_USUARIO/RokyLauncher-Update/releases/download/v0.7.0/Roky_Launcher.exe",
+  "importancia": "alta",
+  "cambios": "Sistema de actualización v0.7 implementado.\nCarpeta AppData configurada.\nMejoras en el Splash Screen."
+}
